@@ -123,6 +123,6 @@ Found a bug? Want to add a feature? Feel free to contribute!
 
 ---
 
-**Made with ❤️ by MISTAAAOLIVAA**
+**Made with by MISTAAAOLIVAA**
 
 *Enjoy your calculations!* 🧮✨ 
