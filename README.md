@@ -1,7 +1,7 @@
 # 🧮 Calculator by MISTAAAOLIVAA
 
 
-
+![Screenshot from 2025-07-02 06-43-24](https://github.com/user-attachments/assets/e6495c1a-3c08-451f-8b6d-a24a27feb2ef)
 
 *Modern GTK3 calculator interface*
 
